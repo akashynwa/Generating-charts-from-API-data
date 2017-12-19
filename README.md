@@ -14,4 +14,4 @@
 
 ### python_repos.py
 
-- Created tests or python_repos.py to check if the response was successful
+- Created tests for python_repos.py to check if the response was successful
